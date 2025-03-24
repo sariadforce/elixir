@@ -5,3 +5,4 @@
 lib/elixir/test/elixir/fixtures/*.txt text eol=lf
 *.ex diff=elixir
 *.exs diff=elixir
+# SPDX-FileCopyrightText: 2012 Plataformatec
